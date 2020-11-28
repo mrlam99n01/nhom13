@@ -1,0 +1,4 @@
+E:\New folder (2)\GraphicsBook\LA Test App\obj\x86\Debug\LA Test App.csprojAssemblyReference.cache
+E:\New folder (2)\GraphicsBook\LA Test App\obj\x86\Debug\LA Test App.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\GraphicsBook\LA Test App\obj\x86\Debug\LA Test App.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\GraphicsBook\LA Test App\obj\x86\Debug\LA Test App.csproj.CoreCompileInputs.cache
