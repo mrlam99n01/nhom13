@@ -1,3 +1,5 @@
+Đây chỉ là một số lỗi import hay ko đúng phiên bản. do ko tương thích visual code.
+
 Lỗi 1: Chọn bài tập để build
 VD: bài tập exercise 4_3. Chọn build. Nếu lỗi ko đúng phiên bản .NET thì hãy làm theo các bước dưới
 Nếu hiện thông báo ko đúng phiên bản:
